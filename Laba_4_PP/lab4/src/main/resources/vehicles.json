@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "type": "Land---",
+        "model": "Model1",
+        "releaseDate": "2020-01-01",
+        "price": 30000.0
+    },
+    {
+        "id": 2,
+        "type": "Air",
+        "model": "Model2-",
+        "releaseDate": "2019-05-15",
+        "price": 15099990.0
+    },
+    {
+        "id": 3,
+        "type": "Water",
+        "model": "Model3",
+        "releaseDate": "2018-07-20",
+        "price": 50000.0
+    }
+]

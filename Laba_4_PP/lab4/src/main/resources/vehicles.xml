@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vehicles>
+    <vehicle>
+        <id>1</id>
+        <type>Land</type>
+        <model>Model1</model>
+        <releaseDate>2020-01-01</releaseDate>
+        <price>30000.0</price>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <type>Air</type>
+        <model>Model2</model>
+        <releaseDate>2019-05-15</releaseDate>
+        <price>15000.0</price>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <type>Water</type>
+        <model>Model3</model>
+        <releaseDate>2018-07-20</releaseDate>
+        <price>50000.0</price>
+    </vehicle>
+</vehicles>
