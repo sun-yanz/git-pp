@@ -1,0 +1,4 @@
+40052,land,soso
+3558,air,fast
+600101,water,slow
+
